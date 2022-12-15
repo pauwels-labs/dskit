@@ -1,4 +1,4 @@
-module github.com/grafana/dskit
+module github.com/pauwels-labs/dskit
 
 go 1.18
 
